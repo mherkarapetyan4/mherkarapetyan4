@@ -24,8 +24,7 @@ Hard-working JavaScript developer with 4.5 years of experience with a key focus 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
                     
-                  ### Socials
-                  
+           
                   
                 <p align="left">
                           
