@@ -7,7 +7,7 @@ Frontend Developer
 Hard-working JavaScript developer with 4.5 years of experience with a key focus on Front-end part. Self-taught developer highly motivated to improve his skills, grow by learning from each project.
 
 *   🌍  I'm based in Yerevan
-*   🖥️  See my portfolio at [My Portfolio](http://dreamup.am)
+*   🖥️  See my portfolio at [My Portfolio](http://mherkarapetyan4.github.io)
 *   ✉️  You can contact me at [karapetmher@yahoo.com](mailto:karapetmher@yahoo.com)
 *   🧠  I'm learning Angular
 *   🤝  I'm open to collaborating on Projects
